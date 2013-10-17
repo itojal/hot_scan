@@ -1,0 +1,4 @@
+* hot_scan
+
+
+hot_scan is a free software to detect genomic regions unusually rich in translocation breakpoints. More generally, hot_scan may be used to detect a region that is unusually rich in a given character of a binary sequence. The significance of these regions is determined by using scan statistics, see for instance Glaz, J., Naus, J., and Wallenstein, S. (2001). Scan Statistics. Springer, NY. Further information may be found in the following [[http://arxiv.org/abs/1310.3291][preprint]].
